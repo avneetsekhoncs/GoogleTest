@@ -1,0 +1,3 @@
+AllTests 6 0.232862
+---
+AllTests

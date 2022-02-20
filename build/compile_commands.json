@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/lib/simple",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC -std=gnu++17 -o CMakeFiles/simple.dir/Parallelogram.cpp.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/Parallelogram.cpp\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/Parallelogram.cpp"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/lib/simple",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC -std=gnu++17 -o CMakeFiles/simple.dir/Matthews.cpp.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/Matthews.cpp\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/Matthews.cpp"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/lib/simple",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC -std=gnu++17 -o CMakeFiles/simple.dir/Awards.cpp.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/Awards.cpp\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/Awards.cpp"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/test",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIE -std=gnu++11 -o CMakeFiles/runAllTests.dir/ParallelogramTests.cpp.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/ParallelogramTests.cpp\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/ParallelogramTests.cpp"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/test",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIE -std=gnu++11 -o CMakeFiles/runAllTests.dir/MatthewsTests.cpp.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/MatthewsTests.cpp\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/MatthewsTests.cpp"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/test",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/lib/simple/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIE -std=gnu++11 -o CMakeFiles/runAllTests.dir/AwardsTests.cpp.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/AwardsTests.cpp\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/AwardsTests.cpp"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/test/gtest/googlemock",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/include\" -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/src/gmock-all.cc\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/test/gtest/googlemock",
+  "command": "/usr/bin/clang++  -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/src/gmock_main.cc\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/test/gtest/googletest",
+  "command": "/usr/bin/clang++  -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/include\" -I\"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/src/gtest-all.cc\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/build/test/gtest/googletest",
+  "command": "/usr/bin/clang++  -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/include\" -isystem \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c \"/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/src/gtest_main.cc\"",
+  "file": "/Users/avneetsekhon/Documents/CMPT 473/googletest-template/test/gtest/googletest/src/gtest_main.cc"
+}
+]
